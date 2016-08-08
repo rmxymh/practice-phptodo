@@ -2,6 +2,16 @@
 
 This project is a practice project which provides a todo list with laravel PHP Framework.
 
+## Usage
+
+* Start
+
+```bash
+$ php artisan serve --host=0.0.0.0 --port=3000
+```
+
+* Then you can use your browser to access http://127.0.0.1:3000/ and create your account to use todo list.
+
 
 # Laravel PHP Framework
 
